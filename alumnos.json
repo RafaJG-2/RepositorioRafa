@@ -1,0 +1,88 @@
+{
+    "231395361": {
+        "nombre": "Juan",
+        "apellido": "P�rez",
+        "segundo_apellido": "Gonz�lez",
+        "fecha_nacimiento": "2005-08-15",
+        "notas": {
+            "PIMDA": 9.0,
+            "SISIN": 8.0,
+            "ENDES": 7.0,
+            "PROG": 6.0,
+            "LGM": 5.0,
+            "DASP": 4.0,
+            "SASP": 3.0,
+            "INGL�S": 2.0,
+            "BDD": 1.0
+        }
+    },
+    "610881074": {
+        "nombre": "Mar�a",
+        "apellido": "L�pez",
+        "segundo_apellido": "Ram�rez",
+        "fecha_nacimiento": "2002-05-22",
+        "notas": {
+            "PIMDA": 0,
+            "SISIN": 0,
+            "ENDES": 0,
+            "PROG": 0,
+            "LGM": 0,
+            "DASP": 0,
+            "SASP": 0,
+            "INGL�S": 0,
+            "BDD": 0
+        }
+    },
+    "911357824": {
+        "nombre": "Carlos",
+        "apellido": "Hern�ndez",
+        "segundo_apellido": "Mart�nez",
+        "fecha_nacimiento": "2010-03-10",
+        "notas": {
+            "PIMDA": 0,
+            "SISIN": 0,
+            "ENDES": 0,
+            "PROG": 0,
+            "LGM": 0,
+            "DASP": 0,
+            "SASP": 0,
+            "INGL�S": 0,
+            "BDD": 0
+        }
+
+    },
+    "370297363": {
+        "nombre": "Miguel",
+        "apellido": "Angel",
+        "segundo_apellido": "Fuentes",
+        "fecha_nacimiento": "2002-07-07",
+        "notas": {
+            "PIMDA": 0,
+            "SISIN": 0,
+            "ENDES": 0,
+            "PROG": 0,
+            "LGM": 0,
+            "DASP": 0,
+            "SASP": 0,
+            "INGL�S": 0,
+            "BDD": 0
+        }
+    },
+    "512300569": {
+        "nombre": "Fran",
+        "apellido": "S�nchez",
+        "segundo_apellido": "Garc�a",
+        "fecha_nacimiento": "2002-07-07",
+        "notas": {
+            "PIMDA": 0,
+            "SISIN": 0,
+            "ENDES": 0,
+            "PROG": 0,
+            "LGM": 0,
+            "DASP": 0,
+            "SASP": 0,
+            "INGL�S": 0,
+            "BDD": 0
+        }
+    }
+}
